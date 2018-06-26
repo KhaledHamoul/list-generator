@@ -1,5 +1,5 @@
 # list-generator
->this is a small C program that generates all possible combinations of a set of caracters. it can be used for brut force lists.
+>this is a small C program that generates all possible combinations of a set of characters. it can be used for brute force lists.
 
 ## Test it
 
