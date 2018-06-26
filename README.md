@@ -1,2 +1,8 @@
 # list-generator
-it's a small C program that generates possible words from a set of caracters.
+>this is a small C program that generates all possible combinations of a set of caracters. it can be used for brut force lists.
+##Test it
+```sh
+git clone 
+cd 
+ext
+```
