@@ -5,6 +5,8 @@
 
 to test this code, follow this steps :
 
+On Linux :
+
 ```sh
 git clone https://github.com/KhaledHamoul/list-generator.git
 cd list-generator
@@ -12,3 +14,10 @@ gcc main.c -o main
 ./main
 ```
 
+On Windows :
+
+```sh
+git clone https://github.com/KhaledHamoul/list-generator.git
+cd list-generator
+main.exe
+```
